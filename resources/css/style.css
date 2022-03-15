@@ -8,16 +8,16 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;}
   color :#ffffff;
 
 }
-header--secondery{
-    font: weight 300px; 
+.header--secondery {
+    font-weight:  300px; 
     font-size: 42px;
     color: #ffffff;
 }
 
-header--subheader{
+.header--subheader{
         
         font-size: 21px;;
-        color:grey
+        color:grey;
 
 
     }
